@@ -1,3 +1,11 @@
 body {
     font-family: sans-serif;
 }
+
+nav a {
+    margin-right: 3rem;
+}
+
+nav {
+    margin-bottom: 2rem;
+}
